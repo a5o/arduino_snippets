@@ -1,2 +1,2 @@
-# arduino_snippets
+# Arduino Snippets
 Arduino related stuff
