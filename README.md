@@ -24,3 +24,7 @@ Display a distance detected with SR04 sonar on a TM1637 display.
 ## median
 
 Calculate a median from an array of values in Arduino.
+
+## eeprom
+
+Write and read values from Arduino eeprom.
