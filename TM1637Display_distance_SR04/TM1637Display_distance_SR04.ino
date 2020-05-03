@@ -4,7 +4,6 @@
 // connections pins:
 #define CLK 2
 #define DIO 3
-#define buzzer 8
 #define TRIG_PIN 7
 #define ECHO_PIN 6
 
