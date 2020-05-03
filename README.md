@@ -20,3 +20,7 @@ Implements a function to move a servo on a defined angle range using a custom sc
 ## TM1637Display\_distance\_SR04
 
 Display a distance detected with SR04 sonar on a TM1637 display.
+
+## median
+
+Calculate a median from an array of values in Arduino.
